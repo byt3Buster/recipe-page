@@ -6,14 +6,19 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  -  [Links](#links)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
+
+### Links
+
+- Solution URL: [Add solution URL h](https://your-solution-url.com)
+- Live Site URL: [https://recipe-page-bice-chi.vercel.app/](https://recipe-page-bice-chi.vercel.app/)
 
 ### Screenshot
 
@@ -24,11 +29,6 @@ Desktop Screenshot :
 Mobile Screenshot :
 
 ![](assets/images/mobile-screenshot.jpeg)
-
-### Links
-
-- Solution URL: [Add solution URL h](https://your-solution-url.com)
-- Live Site URL: [https://recipe-page-bice-chi.vercel.app/](https://recipe-page-bice-chi.vercel.app/)
 
 ## My process
 
