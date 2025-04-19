@@ -27,8 +27,8 @@ Mobile Screenshot :
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL h](https://your-solution-url.com)
+- Live Site URL: [https://recipe-page-bice-chi.vercel.app/](https://recipe-page-bice-chi.vercel.app/)
 
 ## My process
 
