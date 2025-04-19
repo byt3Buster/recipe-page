@@ -50,6 +50,7 @@ body {
     font-family: 'Outfit', sans-serif;
     display: grid;
     text-align: left;
+    height: 100%;
 }
 
 /* ===================== */
@@ -95,21 +96,22 @@ main img {
 /*       HEADINGS        */
 /* ===================== */
 
-h1, h2 {
+h1, h2:not(.time-title) {
     font-family: 'young-serif', sans-serif;
     font-weight: 400;
 }
 
-h2, .val {
+h2:not(.time-title), .val {
     color: var(--brown-800);
 }
 
-h2 {
+h2:not(.time-title) {
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
 
-h3 {
+.time-title {
+    font-size: 18px;
     margin-bottom: 0.5rem;
     color: var(--rose-800);
 }
